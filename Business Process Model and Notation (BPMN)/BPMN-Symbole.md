@@ -1,5 +1,5 @@
 # BPMN Symbole
-Ereignisse
+## Ereignisse
 ![image](https://github.com/JimHefti/M254-Gesch-ftsprozesse-beschreiben/assets/160615771/05bec7dc-ec3c-400b-9733-3ec7c29f8ff5)
 
 Startereignise= Dünneline 
@@ -35,6 +35,6 @@ XOR= eine oder andere Pfad
 ### Komplexes Gateway 
 ![image](https://github.com/JimHefti/M254-Gesch-ftsprozesse-beschreiben/assets/160615771/7383de73-a495-4c76-9480-6308c06b22bd)
 
-
+## Pools und Lanes
 ![image](https://github.com/JimHefti/M254-Gesch-ftsprozesse-beschreiben/assets/160615771/a3b64745-babc-48ce-b6af-29072c213ab6)
 
