@@ -10,6 +10,8 @@ Endereignise=Dickeline
 ![image](https://github.com/JimHefti/M254-Gesch-ftsprozesse-beschreiben/assets/160615771/48512cd0-5f3a-49ff-8d6d-9c27754fd8eb)
 Aufagben 
 
+## Gateways
+![image](https://github.com/JimHefti/M254-Gesch-ftsprozesse-beschreiben/assets/160615771/a57b63ba-6fc5-4529-abbf-7b2c949bc7f6)
 
 ![image](https://github.com/JimHefti/M254-Gesch-ftsprozesse-beschreiben/assets/160615771/d885a738-fb4a-46bb-9dc8-e8176f49bc30)
 
