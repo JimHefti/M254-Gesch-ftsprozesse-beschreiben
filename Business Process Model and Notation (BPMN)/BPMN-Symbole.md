@@ -7,8 +7,13 @@ Zwischenereignise=Dopelt umrandet
 Endereignise=Dickeline 
 
 
-![image](https://github.com/JimHefti/M254-Gesch-ftsprozesse-beschreiben/assets/160615771/48512cd0-5f3a-49ff-8d6d-9c27754fd8eb)
-Aufagben 
+## Aktivitäten
+![image](https://github.com/JimHefti/M254-Gesch-ftsprozesse-beschreiben/assets/160615771/d42e0f55-9d5a-4224-984b-fd59b7c23f96)
+Teilprozesse/Subprozesse= eigene Detailierte abläufe
+Aufruf-Aktivität /Call Activity= Global definierte prozesse
+Beispiel
+![image](https://github.com/JimHefti/M254-Gesch-ftsprozesse-beschreiben/assets/160615771/fa456042-ed44-4698-890d-9db487517e92)
+
 
 ## Gateways
 
