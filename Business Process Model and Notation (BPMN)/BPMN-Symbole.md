@@ -38,3 +38,10 @@ XOR= eine oder andere Pfad
 ## Pools und Lanes
 ![image](https://github.com/JimHefti/M254-Gesch-ftsprozesse-beschreiben/assets/160615771/a3b64745-babc-48ce-b6af-29072c213ab6)
 
+
+
+#  BPMN Icone
+
+![image](https://github.com/JimHefti/M254-Gesch-ftsprozesse-beschreiben/assets/160615771/5a1f7598-4ab9-4623-aa60-122b497d22e6)
+
+
